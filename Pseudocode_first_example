@@ -1,0 +1,12 @@
+The request for this code: Choose the newspapers published between year 1885-1995.
+
+READ "from"
+IF ("from"<1885)
+		<Print "title">;
+ELSE	<ENDIF>;
+READ "to"
+IF ("to"<1995)
+		<Print "title">;
+IF ("to=1995")
+		<Print "title">;
+ELSE	<ENDIF>;

@@ -1,0 +1,56 @@
+An algorithm for searching newspapers based on specific time periods
+READ "from" and "to"
+IF(from=>1930 and to<1950)
+		Print "De Aanval"
+	ELSE
+		Print "De Aabode"
+	ELSE
+		Print "Aambeeld"
+	ELSE
+		Print "Cereales vadenses"
+	ELSE
+		Print "Christofoor"
+	ELSE 
+		Print "Het dagblad"
+	ELSE
+		Print "Eendracht maakt macht"
+IF (from>1900 and to<1930)
+		Print "Goedkoope Vlaardingsche courant"
+IF (from<1800)
+		Print "Bataafsche Leeuwarder courant"
+	ELSE
+		Print "Haarlemse Courant"
+	ELSE 
+		ENDIF;
+IF (from>1800 and to<=1850)
+		Print "Dagblad der provincie Braband"
+	ELSE
+		Print "Dagblad der provincie Noord-Braband"
+	ELSE
+		Print"Advertentieblad bekendmakingen en onderscheidene berigten van Groningen"
+	ELSE
+		Print "Staatkundig dagblad van het departement van den Boven"
+	ELSE
+		Print "Staatkundig dagblad van het Departement der Zuiderzee"
+	ELSE
+		Print "Gazette d'Amsterdam"
+	ELSE 
+		ENDIF;
+IF (from>1850 and to<=1900)
+		Print "Bataviaasch advertentie-blad"
+	ELSE
+		Print "Dagblad van Friesland"
+	ELSE
+		ENDIF
+IF (from>1950)
+		Print "The Illinois observer"
+	ELSE
+		ENDIF;
+IF (from<1900 and to>1900)
+		Print "Bataviaasch handelsblad"
+	ELSE
+		Print "Bataviaasch nieuwsblad"
+	ELSE
+		Print "De Gooi en Eemlander"
+	ELSE
+		ENDIF;

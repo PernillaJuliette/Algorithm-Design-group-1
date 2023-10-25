@@ -29,3 +29,27 @@ ELSE
 	6. 	ENDIF
 	7. END FOR
 	8. End
+
+OR!!
+
+1. Start
+2. Initialize an empty list to store newspaper titles starting with 'A' (let's call it 'foundNewspapers').
+3. Initialize a list of newspaper titles (let's call it 'newspaperList').
+
+4. FOR each newspaper title in 'newspaperList' DO
+5.     IF the first letter of the newspaper title is 'A' THEN
+6.         Add the newspaper title to 'foundNewspapers'.
+7.     END IF
+8. END FOR
+
+9. IF 'foundNewspapers' is not empty THEN
+10.    Sort 'foundNewspapers' in alphabetical order.
+11.    Display "Newspapers starting with 'A':"
+12.    FOR each newspaper title in 'foundNewspapers' DO
+13.        Display the newspaper title.
+14.    END FOR
+15. ELSE
+16.    Display "No newspapers found starting with 'A'."
+17. END IF
+
+18. End

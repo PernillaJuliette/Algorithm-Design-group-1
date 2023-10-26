@@ -1,51 +1,51 @@
-title,from,to,number	
-De Aabode,1944,1944,17	
-Aaltensche courant,1897,1950,4647	
-Aambeeld,1945,1945,10	
-De Aanval,1945,1945,15	
-Bataafsche Leeuwarder courant,1798,1806,1364	
-Bataafsche staats courant,1805,1806,144	
-Bataviaasch advertentie-blad,1851,1852,78	
-Bataviaasch handelsblad,1859,1908,8986	
-Bataviaasch nieuwsblad,1885,1942,19365	
-Cereales vadenses,1943,1944,6	
-Christelijk dagblad voor Nederland De Amsterdammer,1932,1935,931	
-Christelijk sociaal dagblad voor Nederland De Amsterdammer,1936,1941,1769	
-Christofoor,1945,1945,21	
-Cocktail,1944,1944,8	
-Dagblad der provincie Braband,1814,1814,142	
-Dagblad der provincie Noord-Braband,1815,1817,235	
-Dagblad nieuwe Hoornsche courant,1935,1941,2058	
-Het dagblad,1945,1949,1163	
-Dagblad van Friesland,1879,1896,2438	
-Eendracht maakt macht,1942,1944,4	
-Eendracht maeckt maght,1945,1945,48	
-Eenheid,1945,1945,1	
-De eenpitter,1945,1945,13	
-D'Egel,1941,1941,1	
-Feiten,1944,1944,2	
-Advertentieblad	 bekendmakingen en onderscheidene berigten van Groningen,1812,1813,195
-Staatkundig dagblad van het departement van den Boven,1812,1813,301	
-Staatkundig dagblad van het Departement der Zuiderzee,1811,1813,723	
-Filmbulletin,1943,1945,5	
-Gazette d'Amsterdam,1811,1811,129	
-Gazette de Delft,1811,1811,141	
-Gazette de Frise,1811,1811,78	
-Gazette de Groningue,1811,1811,41	
-Gazette de Harlem,1811,1811,127	
-Goedkoope Vlaardingsche courant,1903,1917,586	
-De Gooi en Eembode,1945,1945,2	
-De Gooi en Eemlander,1943,1943,155	
-De Gooise koerier,1944,1945,113	
-Gooische klanken,1945,1945,15	
-Haarlemsche courant,1945,1945,15	
-Haarlemsche post,1945,1945,4
-Haegse post-tydinge,1670,1677,55	
-Haerlemse courante,1659,1779,662	
-Haarlemse Courant,1775,1795,470	
-Ik zal handhaven,1941,1943,9	
-The Illinois observer,1954,1959,42	
-In de Siegfriedlinie,1944,1944,1	
-In den storm,1944,1945,56	
-In het houten paard van Troje,1944,1944,1	
-
+id,title,author,year
+1,De Aabode,Rinus Zellen,1944	
+2,Aaltensche courant,Mathijs Hexel,1897	
+3,Aambeeld,Rinus Assink,1945	
+4,De Aanval,Klaas Kleinlugtenbeld,1945	
+5,Bataafsche Leeuwarder courant,Heiko Lankamp,1798	
+6,Bataafsche staats courant,Theun Leusman,1805
+7,Bataviaasch advertentie-blad,Jan-Jaap Dragonjer,1851
+8,Bataviaasch handelsblad,Femke Kiel,1859
+9,Bataviaasch nieuwsblad,Margje Hoevink,1885
+10,Cereales vadenses,Daantje Knippert,1943	
+11,Christelijk dagblad voor Nederland De Amsterdammer,Fransien Timpers,1932
+12,Christelijk sociaal dagblad voor Nederland De Amsterdammer,Gerrit Pennings,1936
+13,Christofoor,Ido Mannussen,1945
+14,Cocktail,Machiel Eupe,1944
+15,Dagblad der provincie Braband,Elske van de Kaa,1814
+16,Dagblad der provincie Noord-Braband,Jasmijn Thijs,1815	
+17,Dagblad nieuwe Hoornsche courant,Florentijn Buseman,1935
+18,Het dagblad,Stefaan Anjema,1945
+19,Dagblad van Friesland,Sijmen van Straten,1879
+20,Eendracht maakt macht,Eelco Struik,1942
+21,Eendracht maeckt maght,Reggy Keukenkamp,1945
+22,Eenheid,Kaatje Gassenaar,Madelief Woertman,1945
+23,De eenpitter,Hubrecht Rooze,1945	
+24,D'Egel,Eefke Rensen,1941	
+25,Feiten,Willemien Velsink,1944
+26,Advertentieblad	 bekendmakingen en onderscheidene berigten van Groningen,Ton Nijveldt,1812
+27,Staatkundig dagblad van het departement van den Boven,Hendricus Engberts,1812	
+28,Staatkundig dagblad van het Departement der Zuiderzee,Sjef Veer,1811
+29,Filmbulletin,Maup Klunder,1943
+30,Gazette d'Amsterdam,Godelieve Broddes,Rozemarijn Slendebroek,1811
+31,Gazette de Delft,Kristien Walonsley,1811	
+32,Gazette de Frise,Lisanne Mondeel,1811	
+33,Gazette de Groningue,Rozemijn Rothuizen,1811	
+34,Gazette de Harlem,Eefke Kleine Boneschotte,1811
+35,Goedkoope Vlaardingsche courant,Ko Vierdag,1903	
+36,De Gooi en Eembode,Govert Schoten,1945
+37,De Gooi en Eemlander,Saartje Barkel,1943	
+38,De Gooise koerier,Fien van Pijkeren,1944	
+39,Gooische klanken,Hanneke Roosenhaan,1945	
+40,Haarlemsche courant,Abeltje Elfring,1945	
+41,Haarlemsche post,Lindert de Waard,1945
+42,Haegse post-tydinge,Jochem Prangsma,1670
+43,Haerlemse courante,Lauke Pijlman,1659	
+44,Haarlemse Courant,Ineke Hengo,1775
+45,Ik zal handhaven,Grietje Kruiskamp,Arjen Deters,1941	
+46,The Illinois observer,Mechiel Matshagen,1954
+47,In de Siegfriedlinie,Catootje van Egeren,1944
+48,In den storm,Veerle Duissink,1944	
+49,In het houten paard van Troje,Margriet van Harten,1944
+50,Algemene koerier voor Overijsel en Gelderland,Gijs-Jan Duboa,1884

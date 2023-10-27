@@ -1,12 +1,11 @@
-The request for this code: Choose the newspapers published between year 1885-1995.
+Request a user input for an ID number for newspaper records. The number is between 0 and 50. The output is Id number, article title and year of publication.
 
-READ "from"
-IF ("from"<1885)
-		<Print "title">;
-ELSE	<ENDIF>;
-READ "to"
-IF ("to"<1995)
-		<Print "title">;
-IF ("to=1995")
-		<Print "title">;
-ELSE	<ENDIF>;
+Pseudocode:
+
+Write "Please enter an ID number"
+
+If (num >0 and num <=50)
+
+	<Print "title, author, year">;
+Else if
+	<Print "no article data found">;

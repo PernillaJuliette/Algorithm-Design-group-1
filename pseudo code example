@@ -1,0 +1,55 @@
+The request for this code: Choose the newspapers in an alphabetical order from A-Z.
+
+Write "enter the name of the newspaper"
+
+READ "title"
+IF ("title"A)
+		Print "title" A
+ELSE 
+	Dispaly "No newspapers found starting with A"
+
+	ENDIF;
+
+
+	OR A simple example of pseudo code:
+
+	In this pseudo code:
+	We start by initializing a list of newspapers titles; "newpaperList"
+	We use a FOR loop to iterate through each title in the list.
+	within the loop, we use an IF-statement to check if the firts letter starts with an "A".
+	If the condition in line 4 is true, we print the newspaper in line 5.
+
+	this pseudo code will print all the newspaper titles that starts with "A" on separate lines within a single loop. It displays each matching titles as it encounters them in the "newspaperList".
+
+	1. Start
+	2. initialize a list of newspaper titles (let´s call it "newspaperList)
+	3. FOR each newspaper title in "newspaperList" DO
+	4. IF the first letter of the newspaper title is "A" THEN
+	5. 		Print the newspaper title
+	6. 	ENDIF
+	7. END FOR
+	8. End
+
+OR!!
+
+1. Start
+2. Initialize an empty list to store newspaper titles starting with 'A' (let's call it 'foundNewspapers').
+3. Initialize a list of newspaper titles (let's call it 'newspaperList').
+
+4. FOR each newspaper title in 'newspaperList' DO
+5.     IF the first letter of the newspaper title is 'A' THEN
+6.         Add the newspaper title to 'foundNewspapers'.
+7.     END IF
+8. END FOR
+
+9. IF 'foundNewspapers' is not empty THEN
+10.    Sort 'foundNewspapers' in alphabetical order.
+11.    Display "Newspapers starting with 'A':"
+12.    FOR each newspaper title in 'foundNewspapers' DO
+13.        Display the newspaper title.
+14.    END FOR
+15. ELSE
+16.    Display "No newspapers found starting with 'A'."
+17. END IF
+
+18. End

@@ -1,16 +1,16 @@
 import csv
 
 print ("Hello users :)")
-id = input("Enter the ID number you want to search for: ")
+id = input("Enter the ID number:")
 
-# This the path the '/path/file.csv' to our CSV file
+# This is the path '/path/file.csv' to the CSV file
 with open('/News/data.csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
 
-    # The first column in your CSV file contains the ID
+    # The first column in the CSV file contains the ID
     for row in csv_reader:
         if row and row[0] == id:
-            # Found a match, you can access other data in the row as needed
+            # Found a match, access other data in the row
             matched_data = row
             
             break
@@ -19,6 +19,6 @@ with open('/News/data.csv', 'r') as csv_file:
         matched_data = None
 
 if matched_data:
-    print("Article data: ", matched_data)
+    print("row data: ", matched_data)
 else:
-    print("ID not found, There are not that many articles in this CSV file")        
+    print("row data not found")        
